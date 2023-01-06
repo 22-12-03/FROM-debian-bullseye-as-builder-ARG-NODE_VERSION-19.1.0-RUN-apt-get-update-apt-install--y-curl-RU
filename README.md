@@ -1,0 +1,1 @@
+# FROM-debian-bullseye-as-builder-ARG-NODE_VERSION-19.1.0-RUN-apt-get-update-apt-install--y-curl-RU
